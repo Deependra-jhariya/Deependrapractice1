@@ -1,0 +1,25 @@
+.container{
+   
+    height:500px;
+    width:500px;
+}
+.container input{
+   margin: 10px;
+   
+}
+.container h2{
+    justify-content: center;
+}
+.bt{
+   background-color: red;
+   font-weight: bold;
+
+}
+.bt:hover{
+    color: rgb(0, 98, 57);
+    font-size: 1em;
+
+}
+.container input:hover{
+    font-size: 10px;
+}
